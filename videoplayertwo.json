@@ -1,0 +1,23 @@
+{
+
+   "appName":"Video player",
+   
+   "adCounter":3,
+   
+   "startApp":"205294107",
+   
+   "adAppId":"ca-app-pub-3940256099942544~3347511713",
+   
+   "adBannerAd":"",
+   "adNativeAd":"",
+   "adInterstitialAd":"",
+   
+   "fbBannerAd":"",/*1137537866614182_1137538493280786*/
+   "fbNativeAd":"",/*1137537866614182_1137538229947479*/
+   "fbInterstitialAd":"",/*1137537866614182_1137538353280800*/
+   
+   "packageName":"com.veddomaan.downloaderfere",
+   
+   "storeName":"com.veddomaan.downloaderfere"
+   
+}
